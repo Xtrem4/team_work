@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Xtrem4/team_work/issues"
   },
-  "homepage": "https://github.com/Xtrem4/team_work"
+  "homepage": "https://github.com/Xtrem4/team_work",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.0",
+    "gulp-util": "^3.0.7"
+  }
 }
