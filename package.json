@@ -1,0 +1,22 @@
+{
+  "name": "Logic",
+  "version": "0.0.1",
+  "description": "This is a team project.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xtrem4/team_work.git"
+  },
+  "keywords": [
+    "Project"
+  ],
+  "author": "TE Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xtrem4/team_work/issues"
+  },
+  "homepage": "https://github.com/Xtrem4/team_work"
+}
