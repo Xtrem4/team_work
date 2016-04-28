@@ -1,11 +1,19 @@
 ﻿<!DOCTYPE html>
-<html ng-app="">
+<html ng-app="webApp">
 <head>
     <title>Test</title>
 	<meta charset="utf-8" />
     <script src="../../node_modules/angular/angular.js"></script>
+    <script src="js/main.js"></script>
+    
 </head>
 <body>
     <script src="js/greeting.js"></script>
+    <div ng-controller="controller1">
+        <ul ng-repeat="devs in dev">
+            <li>{{devs.name}}</li>
+        </ul>        
+    </div>
+    
 </body>
 </html>
